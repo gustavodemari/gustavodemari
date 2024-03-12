@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hey there! I’m Gustavo De Mari Pereira, a software engineer, data scientist and MSc candidate at Institute of Mathematics and Statitics (IME-USP) of University of Sao Paulo.
+
 <!--
 **gustavodemari/gustavodemari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
