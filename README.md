@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-I’m Gustavo De Mari Pereira, a software engineer, data scientist and MSc candidate at Institute of Mathematics and Statitics (IME-USP) of University of Sao Paulo.
+I’m Gustavo De Mari Pereira, a software engineer and data scientist.
+
+I hold an MSc in Computer Science from the [Institute of Mathematics and Statistics of the University of São Paulo (IME-USP)](https://ime.usp.br). 
+
+I was a student researcher at the [Logics, Artificial Intelligence and Formal Methods Lab (LIAMF)](https://liamf.ime.usp.br).
+
+For more details, check [my resume here](https://www.gustavodemari.com.br/assets/gustavo-demari-pereira-cv.pdf) or my website [www.gustavodemari.com.br](https://www.gustavodemari.com.br)
 
 <!--
 **gustavodemari/gustavodemari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
